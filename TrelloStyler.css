@@ -1,0 +1,85 @@
+.list-card-title ,.phenom-desc , .comment-box-input
+,.list-card-composer-textarea ,.checklist-new-item-text , .list-card-title{
+  font-family : 'IRANSansMobile' !important;
+    font-size : 10pt !important;
+    
+}
+
+.checklist-title * ,.checklist-item-details-text{
+  font-family : 'Shabnam FD light','IRANSansMobile';
+    font-size : 9pt !important;
+}
+
+.mod-card-back-title{
+  font-family : 'IRANSansMobile';
+    font-size : 15pt !important;
+}
+
+.board-tile-details-name{
+  font-family : 'Shabnam FD light','IRANSansMobile';
+    font-size : 11pt !important;
+}
+
+.list-header-name{
+  font-family : 'Shabnam FD light','IRANSansMobile';
+    font-size : 11pt !important;
+}
+
+.board-canvas {
+        background-color: #0067a3;
+}
+
+#board{
+  margin-top: 15px;
+}
+
+.card-label{
+  font-family : 'Shabnam FD light','IRANSansMobile';
+    font-size : 9pt !important;
+}
+
+.board-tile-details-name{
+font-family: 'Shabnam FD','IRANSansMobile' !important;
+}
+
+
+.markeddown{
+direction:rtl
+}
+
+textarea {
+  direction: rtl
+}
+
+
+div[data-test-class="cards-list-name"] {
+    overflow: visivble  !important;
+}
+
+
+div[class="_1ZZoQ3WtmnsdUp"] {
+    height: 35px;
+	    display: flex;
+    flex-direction: column;
+	background-color: #6161619a;
+}
+
+
+._1ZZoQ3WtmnsdUp > div:nth-child(2)  {
+    overflow: visible;
+		font-size: 12pt;
+}
+
+div[attr="desc"] {
+    font-family : 'IRANSansMobile' !important;
+      font-size : 11pt !important;
+}
+
+div[class="comment-container"] {
+    font-family : 'IRANSansMobile' !important;
+      font-size : 12pt !important;
+	line-height: normal;
+}
+div[class="comment-container"] > div > div > pre {
+    direction: ltr;
+}
